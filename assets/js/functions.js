@@ -57,8 +57,8 @@ jQuery(document).ready(function($) {
 	$('#time_countdown').countDown({
         
          targetDate: {
-             'day': 26,
-             'month': 2,
+             'day': 31,
+             'month': 3,
              'year': 2017,
              'hour': 0,
              'min': 0,
